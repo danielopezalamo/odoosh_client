@@ -1,4 +1,0 @@
-* master
-Tu rama está actualizada con 'origin/master'.
-Ya está actualizado.
-Reinicializado el repositorio Git existente en /home/dani/qubiq/test_devops/odoo/custom/src/tmp/test_devops2/.git/
